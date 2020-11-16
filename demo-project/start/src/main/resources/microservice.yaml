@@ -1,0 +1,11 @@
+APPLICATION_ID: serviceCombDemo
+service_description:
+  name: demo-project
+  version: 1.0.6
+  environment: development
+servicecomb:
+  rest:
+    address: 0.0.0.0:9012
+  service:
+    registry:
+      address: http://127.0.0.1:30100

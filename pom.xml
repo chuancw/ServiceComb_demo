@@ -11,6 +11,8 @@
   <modules>
     <module>provider-service-01</module>
     <module>consumer-client</module>
+    <module>demo-project</module>
+    <module>learn</module>
   </modules>
 
   <name>servicecomb</name>
